@@ -1,0 +1,14 @@
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\bin\Debug\net8.0\LinQ.exe
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\bin\Debug\net8.0\LinQ.deps.json
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\bin\Debug\net8.0\LinQ.runtimeconfig.json
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\bin\Debug\net8.0\LinQ.dll
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\bin\Debug\net8.0\LinQ.pdb
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.dll
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.pdb
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\LinQ.genruntimeconfig.cache
+C:\Users\Hello\OneDrive\Desktop\LinQ\LinQ\obj\Debug\net8.0\ref\LinQ.dll
